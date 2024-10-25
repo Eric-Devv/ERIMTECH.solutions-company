@@ -1760,8 +1760,5 @@ document.getElementsByTagName("body")[0].setAttribute("style", "z-index: 0");
     var a = document.createElement("section");
     a.id = "top-1";
     a.style = "display: none";
-    a.innerHTML =
-      '<a href="https://mobirise.com/how-to/small-business.html">How to Create Small Business Website</a> Mobirise v5.9.18 <a href="https://mobirise.com/builder/ai-website-creator.html">Free AI Website Creator</a>';
-    document.body.insertBefore(a, document.body.childNodes[0]);
   }
 })();

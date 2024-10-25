@@ -1,5 +1,5 @@
 /*
- yt-player. MIT License. Feross Aboukhadijeh <https://feross.org/opensource> */
+ yt-player. MIT License. Feross Aboukhadijeh <https://feross.org/opensource>
 var $jscomp = $jscomp || {};
 $jscomp.scope = {};
 $jscomp.arrayIteratorImpl = function (a) {
@@ -1091,3 +1091,5 @@ C_$hudson$workspace$Mobirise_Windows_release_web$Release$release$win_ia32_unpack
   };
 YouTubePlayer =
   C_$hudson$workspace$Mobirise_Windows_release_web$Release$release$win_ia32_unpacked$resources$_app_asar$web$app$themes$mobirise5$plugins$ytplayer$index$classdecl$var0;
+
+   */
