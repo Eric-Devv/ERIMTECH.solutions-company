@@ -1129,9 +1129,11 @@ a {
 @media (min-width: 768px) {
   .cid-utgTX7sUKu {
     align-items: center;
+    
   }
   .cid-utgTX7sUKu .row {
     justify-content: flex-start;
+    
   }
   .cid-utgTX7sUKu .content-wrap {
     padding: 1rem 3rem;
@@ -1166,6 +1168,7 @@ a {
 .cid-utgTX7sUKu .mbr-section-title {
   text-align: left;
   color: #edefeb;
+  
 }
 .cid-uth6qyygEA {
   padding-top: 4rem;
@@ -1306,7 +1309,7 @@ a {
   border-radius: 50%;
 }
 .cid-uth7oGEbwB .mbr-section-title {
-  color: #ffd7ef;
+  color: #fdfdfd;
 }
 .cid-uth7oGEbwB .mbr-section-subtitle {
   color: #232323;
