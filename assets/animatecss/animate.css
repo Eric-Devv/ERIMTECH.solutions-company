@@ -1,6 +1,12 @@
 
 @charset "UTF-8";
-
+/*!
+ * animate.css - https://animate.style/
+ * Version - 4.1.0
+ * Licensed under the MIT license - http://opensource.org/licenses/MIT
+ *
+ * Copyright (c) 2020 Animate.css
+ */
 :root {
   --animate-duration: 0.4s;
   --animate-delay: 0.1s;

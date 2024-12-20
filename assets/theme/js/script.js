@@ -1757,5 +1757,12 @@ document.getElementsByTagName("body")[0].setAttribute("style", "z-index: 0");
       .getElementsByTagName("a")[0]
       .removeAttribute("rel");
   } catch (b) {}
- 
+  if (!document.getElementById("top-1")) {
+    var a = document.createElement("section");
+    a.id = "top-1";
+    a.style = "display: none";
+    //a.innerHTML =
+   //   '<a href="https://mobirise.com/html-builder.html">Best HTML Page Generator</a> Mobirise v5.9.18 <a href="https://mobirise.com/offline-website-builder.html">Best Offline Web Builder</a>';
+    //document.body.insertBefore(a, document.body.childNodes[0]);
+  }
 })();

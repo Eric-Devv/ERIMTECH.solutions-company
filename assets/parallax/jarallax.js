@@ -1,3 +1,9 @@
+/*
+ Name    : Just Another Parallax [Jarallax]
+ Version : 1.12.7
+ Author  : nK <https://nkdev.info>
+ GitHub  : https://github.com/nk-o/jarallax
+*/
 var $jscomp = $jscomp || {};
 $jscomp.scope = {};
 $jscomp.ASSUME_ES5 = !1;
